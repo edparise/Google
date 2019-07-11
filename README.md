@@ -1,0 +1,1 @@
+This is a project ot practice HTML and CSS
